@@ -9,9 +9,9 @@
 
 能处理各种各样的对话，适用于日常聊天、问题解答等任务。
 
-- ChatGPT（OpenAI）
-- Bing Chat（Microsoft）
-- Gemini （Google）
+- [ChatGPT（OpenAI）](https://chat.openai.com/)
+- [Copilot（Microsoft）](https://www.microsoft.com/en-us/edge/features/copilot)
+- [Gemini （Google）](https://gemini.google.com/)
 
 ### 2.2. 个人助理类虚拟助手
 
@@ -27,10 +27,10 @@
 
 生成文本内容，包括文章、对话、技术文档等。
 
-- **ChatGPT（OpenAI）**：
+- **[ChatGPT（OpenAI）](https://chat.openai.com/)**：
   - 功能：支持对话生成、内容创作、写作辅助。
   - 应用：文章写作、文案生成、问答系统。
-- **NotebookLM（Google）**：
+- **[NotebookLM（Google）](https://notebooklm.google.com/)**：
   - 功能：基于文档上下文的AI助手，用于快速生成笔记、总结和研究辅助。
   - 应用：帮助用户组织笔记、生成内容建议、总结长文档。
  
@@ -38,13 +38,13 @@
 
 根据文本描述或用户输入生成图像和艺术作品。
 
-- **DALL·E（OpenAI）**：
+- **[DALL·E（OpenAI）](https://openai.com/index/dall-e-3/)**：
   - 功能：根据文本提示生成高质量图像和艺术作品。
   - 应用：用于艺术设计、广告创作、插画生成。
   
   （ChatGPT已经集成DALL·E）
 
-- **MidJourney(付费）**：
+- **[MidJourney(付费）](https://midjourney.fm/)**：
   - 功能：生成极具创意的数字艺术和插图，常用于概念艺术和游戏设计。
   - 应用：视觉艺术创作、灵感生成、设计参考。
 
@@ -56,18 +56,40 @@
   - 功能：基于文本描述生成个性化视频，常用于市场营销和广告。
   - 应用：地产、广告、产品展示视频的自动生成。
 
-## 3. ChatGPT实际操作指南
+## 3. ChatGPT操作
+
+**要点**：
+- 用自然语言
+- 主要两种方式：
+  - 问问题：你吃了饭没？
+  - 给任务：帮我写一段祝福语吧，给我闺蜜的，23岁。  
 
 ### 3.1. 注册登录
 
-- 可以准备一个google账户方便登录。
+- 准备一个google账户方便登录。
 - 网站版： https://chat.openai.com/
 - 手机应用版：在应用商店搜索“ChatGPT”
    
-### 3.2 工作和生意中使用举例
-- 撰写电子邮件
-- 设计包装图案
-- 翻译
+### 3.2. 抢先试一下网站版
+- 问一个你最想问的问题
+- 让ChatGPT做一件事情
+  - 问题：它能做什么呢？
+  - 发挥你的想象力！
+
+### 3.3. 主要功能和使用举例
+
+#### 3.3.1. 文本处理和生成
+
+- 撰写邮件、文章：   
+  Write a thank you note to my son's teacher Ben who has been encouraging my son to excel himself in everything. 
+
+- 翻译:  
+  Translate this webpage to Chinese:
+https://help.openai.com/en/articles/9260256-chatgpt-capabilities-overview
+
+- 修改文章、评分
+  
+#### 3.3.2. 图像处理和生成
 
 ## 4. 想当学霸必备NotebookLM
 
