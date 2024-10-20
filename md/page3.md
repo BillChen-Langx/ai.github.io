@@ -30,7 +30,7 @@
 - 点"Study Guide”，生成复习提纲
 
 ### 4.5. 如何显示中文界面 
-
+- 需要到你的Google Account将"Preferred Language"设成中文。
 
 
 [Page 1](index.md) | [Page 2](page2.md) | [Page 3](page3.md) | [Page 4](page4.md)
