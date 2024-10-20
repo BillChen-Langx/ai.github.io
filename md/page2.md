@@ -33,7 +33,7 @@
 https://help.openai.com/en/articles/9260256-chatgpt-capabilities-overview
 
 - 修改文章、评分  
-  上传一篇文章 ([下载](../Resources/500-word-essay-for-high-school.pdf))到ChatGPT.  
+  上传一篇文章 ([下载](500-word-essay-for-high-school.pdf))到ChatGPT.  
 
 > Can you grade this paper using the following criteria?
 > 1. Clearly proposes a statement. (20%)
@@ -43,7 +43,7 @@ https://help.openai.com/en/articles/9260256-chatgpt-capabilities-overview
   
 #### 3.3.2. 图像处理和生成
   
-- 上传一张图片([下载](../Resources/Gathering.png))到ChatGPT. 
+- 上传一张图片([下载](Gathering.png))到ChatGPT. 
   - What are they doing?
   - How many people?
 - 照一张药品包装图。然后问： "这是什么药?"
@@ -52,7 +52,7 @@ https://help.openai.com/en/articles/9260256-chatgpt-capabilities-overview
 
 #### 3.3.3. 高级数据分析
 
-- 上传一个表格文件([下载](../Resources/Service%20charges2022.csv))。  
+- 上传一个表格文件([下载](Service%20charges2022.csv))。  
 指令：
   - 画一张柱形图，用于报告插图。(2024-10-19：好像功能出错了)
   - 算月平均收费。

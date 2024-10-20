@@ -26,6 +26,6 @@
   AI可能会生成不准确或错误的信息，需验证关键结果。
   
 ## 附件 
-下载：[Integrating AI into Business Processes.pdf](../Resources/Integrating%20AI%20into%20Business%20Processes.pdf)
+下载：[Integrating AI into Business Processes.pdf](Integrating%20AI%20into%20Business%20Processes.pdf)
 
 [Page 1](index.md) | [Page 2](page2.md) | [Page 3](page3.md) | [Page 4](page4.md)
