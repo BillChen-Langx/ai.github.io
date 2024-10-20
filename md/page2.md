@@ -1,4 +1,5 @@
-[Page 1](index.md) | [Page 2](page2.md) | [Page 3](page3.md)
+[Page 1](index.md) | [Page 2](page2.md) | [Page 3](page3.md) | [Page 4](page4.md)
+
 
 ## 3. ChatGPT操作
 
@@ -60,16 +61,24 @@ https://help.openai.com/en/articles/9260256-chatgpt-capabilities-overview
 
 - 可以直接说话，让ChatGPT回答问题或者做任务。
 - 点击朗读按钮（手机应用上则需点击答案后，选朗读），可以听ChatGPT读出回答。
-  
+
+#### 3.3.5. 实时全网智能搜索归纳 （强烈推荐）
+
+- ChatGPT自动判断是否需要全网搜索
+- 试一下：  
+  > 这个消息来源最早是哪里？  
+  > "AI机器人绘制的肖像画将在苏富比拍卖"
+
 ### 3.3. 如何获得最佳效果？
 
 六种策略：https://platform.openai.com/docs/guides/prompt-engineering
-- 提供清晰的指示
-- 使用实例演示
-- 细分任务
-- 明确所需的格式
-- 使用条件指令
-- 限制输出长度
+
+- 提供清晰的指示：确保提示明确，减少歧义。  
+- 使用参考文本：为模型提供上下文或示例文本。  
+- 拆解复杂任务：将复杂的任务分成更简单的步骤。
+- 给时间让模型“思考”：使用逐步推理来增强模型的响应。
+- 使用外部工具：整合其他资源来辅助模型。
+- 系统化测试：通过有条理的测试来改进提示效果。
 
 
-[Page 1](index.md) | [Page 2](page2.md) | [Page 3](page3.md)
+[Page 1](index.md) | [Page 2](page2.md) | [Page 3](page3.md) | [Page 4](page4.md)

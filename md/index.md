@@ -1,5 +1,5 @@
 # 外师人玩转AI
-[Page 1](index.md) | [Page 2](page2.md) | [Page 3](page3.md)
+[Page 1](index.md) | [Page 2](page2.md) | [Page 3](page3.md) | [Page 4](page4.md)
 
 
 ## 1. AI 是什么？
@@ -58,5 +58,6 @@
   - 功能：基于文本描述生成个性化视频，常用于市场营销和广告。
   - 应用：地产、广告、产品展示视频的自动生成。
   
-[Page 1](index.md) | [Page 2](page2.md) | [Page 3](page3.md)
+[Page 1](index.md) | [Page 2](page2.md) | [Page 3](page3.md) | [Page 4](page4.md)
+
 

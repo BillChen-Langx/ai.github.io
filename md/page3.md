@@ -1,4 +1,5 @@
-[Page 1](index.md) | [Page 2](page2.md) | [Page 3](page3.md)
+[Page 1](index.md) | [Page 2](page2.md) | [Page 3](page3.md) | [Page 4](page4.md)
+
 
 ## 4. 学霸必备NotebookLM
 **要点**：
@@ -30,9 +31,7 @@
 
 ### 4.5. 如何显示中文界面 
 
-## 5. HeyGen个性化视频
 
-## 6. 小心AI
-**它一定会出错**
 
-[Page 1](index.md) | [Page 2](page2.md) | [Page 3](page3.md)
+[Page 1](index.md) | [Page 2](page2.md) | [Page 3](page3.md) | [Page 4](page4.md)
+
