@@ -48,7 +48,7 @@ https://help.openai.com/en/articles/9260256-chatgpt-capabilities-overview
   - How many people?
 - 照一张药品包装图。然后问： "这是什么药?"
 - 生成图画
-  > Create an attractive picture that will be used on a packaging box for a beautiful Hetian jade bracelet.
+  > Create an attractive picture that can be put on a package for a beautiful Hetian jade bracelet.
 
 #### 3.3.3. 高级数据分析
 
